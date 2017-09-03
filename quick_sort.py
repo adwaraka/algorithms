@@ -1,3 +1,6 @@
+#Quicksort Algorithm
+#5
+#9 8 7 6 5
 def partition(alist,first,last):
    pivotvalue = alist[first]
    i = first+1
