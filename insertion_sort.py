@@ -1,3 +1,6 @@
+#5
+#5 4 9 0 2
+#0 2 4 5 9
 def insertion_sort(ar):
     for i in range(1,len(ar)):
         j = i
