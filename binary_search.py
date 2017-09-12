@@ -1,5 +1,5 @@
 #5
-#2
+#2 - element to be searched
 #0 2 4 5 9
 def binary_search(arr, low, high, n):
     if (low <= high):
