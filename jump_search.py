@@ -14,5 +14,5 @@ def jump_search(arr, n, step_size):
 
 n = 10
 arr = [0,2,4,5,9,10,18,19,20,25]
-val, index = jump_search(arr, n, 3)
+val, index = jump_search(arr, n, 3) #step size should be sqrt(array size)
 print val, index
