@@ -1,3 +1,5 @@
+#Heap Sort
+#This sorts in an ascending order
 def heapify(arr):
     if len(arr) == 1:
         return arr
